@@ -1,4 +1,4 @@
-Below is one suggestion for an impactful review paper that can demonstrate your depth of understanding and research potential to prospective PhD advisors:
+
 
 ---
 
