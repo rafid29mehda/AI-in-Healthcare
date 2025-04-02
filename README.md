@@ -3,7 +3,7 @@
 ---
 
 **Proposed Title:**  
-**"Convergence of Multi-Modal AI in Precision Medicine: A Comprehensive Review of Imaging, Genomics, and Clinical Decision Support Systems"**
+## **"Convergence of Multi-Modal AI in Precision Medicine: A Comprehensive Review of Imaging, Genomics, and Clinical Decision Support Systems"**
 
 ---
 
@@ -90,4 +90,4 @@
 - **Interdisciplinary Appeal:**  
   Highlighting integration underscores your ability to think broadly and connect disparate research areas, a crucial skill for advanced research.
 
-This structure and title provide a clear, focused, and forward-thinking narrative that showcases our understanding of both the technical and clinical aspects of AI in healthcare. It positions you as someone who is ready to tackle the complex, interdisciplinary challenges of modern medical research—an attractive quality for potential PhD mentors.
+This structure and title provide a clear, focused, and forward-thinking narrative that showcases our understanding of both the technical and clinical aspects of AI in healthcare. It positions us as someone who is ready to tackle the complex, interdisciplinary challenges of modern medical research—an attractive quality for potential PhD mentors.
