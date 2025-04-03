@@ -132,4 +132,4 @@ The convergence of AI across medical imaging, genomics, and clinical decision su
 
 ---
 
-This draft provides a structured approach to writing our review paper, from an introduction and exploration of each subfield to a discussion of their convergence and future directions.
+This draft provides a structured approach to writing the review paper, from an introduction and exploration of each subfield to a discussion of their convergence and future directions.
