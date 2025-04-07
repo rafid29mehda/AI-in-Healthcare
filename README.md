@@ -81,7 +81,7 @@ Roadmap on how our review paper should be written
 **Why This Paper Can Impress:**
 
 - **Innovative Scope:**  
-  By focusing on the convergence of multiple high-impact AI subfields, your review addresses a key emerging trend in precision medicine.
+  By focusing on the convergence of multiple high-impact AI subfields, our review addresses a key emerging trend in precision medicine.
 - **Comprehensive & Forward-Looking:**  
   It not only surveys current advancements but also critically analyzes challenges and outlines future research directions—qualities that PhD advisors value.
 - **Interdisciplinary Appeal:**  
