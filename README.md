@@ -40,7 +40,7 @@ Roadmap on how our review paper should be written
 
 #### 5. **Section 4: Integration & Multi-Modal AI Approaches**
 - **Synergies Across Modalities:**  
-  Examine how combining insights from imaging, genomics, precision and clinical data can yield a more comprehensive understanding of patient health.
+  Examine how combining insights from imaging, genomics, precision medicine and clinical data can yield a more comprehensive understanding of patient health.
 - **Emerging Methodologies:**  
   Present recent research on multi-modal deep learning, federated learning for cross-institutional data integration, and methods for aligning disparate data types.
 - **Case Studies & Comparative Analysis:**  
