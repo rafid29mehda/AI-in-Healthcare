@@ -167,4 +167,4 @@ The topic **"Convergence of Multi-Modal AI in Precision Medicine: A Comprehensiv
 - Continuously update your reference library as you discover new, relevant papers.
 - Use diagrams, tables, and visuals to enhance understanding, especially when dealing with complex models and multi-modal data integration.
 
-By following this structured plan, we’ll be able to create a **high-quality, impactful review paper** that will impress professors and increase your chances of securing a PhD position.
+By following this structured plan, we’ll be able to create a **high-quality, impactful review paper** that will impress professors and increase our chances of securing a PhD position.
