@@ -1,7 +1,4 @@
----
-
-**Proposed Title:**  
-## **"Convergence of Multi-Modal AI in Precision Medicine: A Comprehensive Review of Imaging, Genomics, and Clinical Decision Support Systems"**
+## **Convergence of Multi-Modal AI in Precision Medicine: A Comprehensive Review of Imaging, Genomics, and Clinical Decision Support Systems**
 
 ---
 
