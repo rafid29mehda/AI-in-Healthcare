@@ -147,7 +147,7 @@ The topic **"Convergence of Multi-Modal AI in Precision Medicine: A Comprehensiv
 
 #### **3. References & Citation Check**
    - Ensure all citations are complete and consistent.
-   - Verify that you’ve cited **seminal works** and **recent studies** to provide a balanced view of the field.
+   - Verify that we’ve cited **seminal works** and **recent studies** to provide a balanced view of the field.
 
 #### **4. Final Proofreading**
    - Get feedback from peers or colleagues, particularly those with expertise in the AI healthcare domain.
