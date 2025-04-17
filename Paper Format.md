@@ -131,5 +131,3 @@ The convergence of AI across medical imaging, genomics, and clinical decision su
 7. McMahan, H.B., et al., "Federated Learning: Collaborative Machine Learning without Centralized Data," *Communications of the ACM*, 2017.
 
 ---
-
-This draft provides a structured approach to writing the review paper, from an introduction and exploration of each subfield to a discussion of their convergence and future directions.
