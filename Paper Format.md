@@ -1,4 +1,4 @@
-Below is a draft outline and content for the **review paper** on the topic **"Convergence of Multi-Modal AI in Precision Medicine: A Comprehensive Review of Imaging, Genomics, and Clinical Decision Support Systems"**. This will give us a clear direction and a comprehensive starting point to build our own paper -
+Below is the draft outline and content for the **review paper** on the topic **"Convergence of Multi-Modal AI in Precision Medicine: A Comprehensive Review of Imaging, Genomics, and Clinical Decision Support Systems"**. This will give us a clear direction and a comprehensive starting point to build our own paper -
 
 ---
 
