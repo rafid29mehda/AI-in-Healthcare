@@ -15,7 +15,7 @@ The topic **"Convergence of Multi-Modal AI in Precision Medicine: A Comprehensiv
      - **Clinical Decision Support Systems (CDSS)**: How AI-driven systems improve decision-making based on electronic health records (EHR), clinical notes, and other patient data.
 
 #### **2. Create an Outline for the Paper**
-   Draft a high-level outline based on the structure suggested earlier. Your initial outline could look like this:
+   Draft a high-level outline based on the structure suggested earlier. The initial outline could look like this:
    - **Introduction & Motivation**
    - **AI in Medical Imaging**
    - **AI in Genomics & Precision Medicine**
