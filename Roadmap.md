@@ -158,7 +158,7 @@ The topic **"Convergence of Multi-Modal AI in Precision Medicine: A Comprehensiv
 ### **Phase 5: Submission (Week 12)**
 
 - **Submit the paper** to a **Q1 journal** (high-impact journals like *Nature Medicine*, *The Lancet Digital Health*, or *IEEE Transactions on Medical Imaging*).
-- **Prepare a cover letter**: Briefly introduce the topic, the approach, and why your paper contributes significantly to the field.
+- **Prepare a cover letter**: Briefly introduce the topic, the approach, and why the paper contributes significantly to the field.
 
 ---
 
