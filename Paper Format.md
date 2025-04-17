@@ -130,4 +130,3 @@ The convergence of AI across medical imaging, genomics, and clinical decision su
 6. Rajkomar, A., et al., "AI for Clinical Decision Support in Sepsis," *New England Journal of Medicine*, 2018.
 7. McMahan, H.B., et al., "Federated Learning: Collaborative Machine Learning without Centralized Data," *Communications of the ACM*, 2017.
 
----
