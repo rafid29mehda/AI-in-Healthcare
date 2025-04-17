@@ -26,7 +26,7 @@ The topic **"Convergence of Multi-Modal AI in Precision Medicine: A Comprehensiv
    - **Conclusion**
 
 #### **3. Set Up a Research Repository & Citation Management**
-   - **Use Zotero, Mendeley, or EndNote** to organize and manage your references.
+   - **Use Zotero, Mendeley, or EndNote** to organize and manage the references.
    - Create a **folder structure**: one for each subfield (e.g., imaging, genomics, clinical decision support) to organize the papers you will read and cite.
 
 ---
