@@ -47,7 +47,7 @@ The topic **"Convergence of Multi-Modal AI in Precision Medicine: A Comprehensiv
      - "Clinical decision support systems in healthcare"
      - "AI for multi-modal healthcare data"
      - "Federated learning healthcare"
-   - **Use citation chaining**: If you find a key paper, look at the references it cites and also check who has cited that paper for more recent developments.
+   - **Use citation chaining**: If find a key paper, look at the references it cites and also check who has cited that paper for more recent developments.
 
 #### **2. Core Papers (Week 4)**
    Begin with key review papers, seminal works, and high-impact publications that cover:
